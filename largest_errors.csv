@@ -1,0 +1,6 @@
+address,suburb,property_type,bedrooms,bathrooms,car_spaces,actual,predicted,error,abs_error,pct_error
+21 Morella Road,Mosman,House,4,4,2.0,11650000,6584000.0,-5066000.0,5066000.0,-43.5
+3 Gordon Street,Mosman,House,5,2,2.0,7650000,3576000.0,-4074000.0,4074000.0,-53.3
+13 Lancaster Street,Blacktown,House,7,4,6.0,1900000,5111000.0,3211000.0,3211000.0,169.0
+105 Holt Avenue,Mosman,House,4,3,,3550000,6094000.0,2544000.0,2544000.0,71.7
+5 Botanic Road,Mosman,House,4,3,2.0,8700000,6452000.0,-2248000.0,2248000.0,-25.8

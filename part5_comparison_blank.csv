@@ -1,0 +1,11 @@
+address,suburb,property_type,bedrooms,bathrooms,car_spaces,actual,ml_estimate,llm_estimate,human_estimate
+42 Burke Street,Blacktown,House,5,3,6.0,1260000,1992000.0,,
+41 Dagmar Crescent,Blacktown,House,3,1,2.0,880000,1203000.0,,
+45 & 45a Dina Beth Avenue,Blacktown,House,5,2,4.0,1250000,1359000.0,,
+10/4 Peace Lane,Parramatta,Apartment,2,2,1.0,570000,640000.0,,
+5/30-32 Queens Avenue,Parramatta,Apartment,2,1,1.0,680000,565000.0,,
+1417/32 Hunter Street (AKA 1417/45 Macquarie St),Parramatta,Apartment,1,1,1.0,560000,467000.0,,
+2/81A Glover Street,Mosman,Apartment,2,2,1.0,1440000,1720000.0,,
+16/5 The Esplanade,Mosman,Apartment,1,1,1.0,1570000,796000.0,,
+14 Almora Street,Mosman,House,3,3,2.0,5025000,5636000.0,,
+11 Euryalus Street,Mosman,House,6,4,3.0,7260000,7705000.0,,
