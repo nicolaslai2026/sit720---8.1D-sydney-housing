@@ -1,4 +1,4 @@
-<img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/7bb359ee-45d1-4eae-b762-0e15c691ce20" /># SIT720 8.1D — Sydney Housing Price Prediction & Decision Support System
+# SIT720 8.1D — Sydney Housing Price Prediction & Decision Support System
 
 An end-to-end machine-learning project that predicts Sydney residential sale
 prices and serves them through a Streamlit web app, built as a real-estate
